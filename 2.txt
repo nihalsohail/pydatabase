@@ -1,2 +1,6 @@
 This is the first line.
+<<<<<<< HEAD
 This is the Second line from Main.
+=======
+This is the Second line from branch1.
+>>>>>>> branch1
